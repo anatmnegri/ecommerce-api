@@ -306,3 +306,9 @@ prisma/
 ├── schema.prisma    # Schema do banco
 └── migrations/      # Migrations SQL
 ```
+
+## Pessoas Desenvolvedoras
+
+| Nome                   | Função             | Contato                                     |
+| ---------------------- | ------------------ | ------------------------------------------- |
+| Ana Teresa Negri Silva | Frontend Developer | https://www.linkedin.com/in/anateresanegri/ |
