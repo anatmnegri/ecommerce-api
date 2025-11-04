@@ -83,7 +83,7 @@ O sistema foi desenvolvido seguindo os princípios de **Event-Driven Architectur
 ### 1. Clone o repositório
 
 ```bash
-git clone < >
+git clone <https://github.com/anatmnegri/ecommerce-api.git>
 ```
 
 ### 2. Instale as dependências
