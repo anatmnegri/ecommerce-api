@@ -1,4 +1,4 @@
-# E-commerce API - Sistema de Pedidos com Arquitetura Orientada a Eventos
+# E-commerce API
 
 Este projeto implementa um sistema de e-commerce com arquitetura orientada a eventos, utilizando Kafka para comunicação assíncrona entre serviços. O sistema gerencia clientes, produtos, pedidos e simula pagamentos e estoque de forma assíncrona.
 
